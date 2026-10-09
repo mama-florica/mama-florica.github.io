@@ -41,3 +41,4 @@ body.expired .timer{background:#555}
 .offer .was{font-size:18px;color:#ddd3bf;margin-top:6px}.offer .was s{color:#f0a3a3}
 .offer .save{display:inline-block;background:var(--gold);color:var(--green);font:700 15px/1 Arial,sans-serif;padding:6px 10px;border-radius:20px;margin:0 0 12px}
 body.expired .was,body.expired .save{display:none}
+#hotmart-sales-funnel iframe{width:100%!important;min-height:470px;border:0}
